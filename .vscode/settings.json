@@ -1,0 +1,26 @@
+{
+  "files.autoSave": "afterDelay",
+    "editor.fontSize": 14,
+    "editor.tabSize": 2,
+    "editor.minimap.enabled": false,
+    "files.autoGuessEncoding": true,
+    
+    "emmet.preferences": {
+        "filter.commentTrigger": [
+            "id",
+            "class"
+        ]
+    },
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.syntaxProfiles": {
+
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "workbench.colorTheme": "Dracula Soft",
+    "editor.fontWeight": "normal",
+    "emmet.useInlineCompletions": true,
+    "editor.quickSuggestionsDelay": 3,
+    "editor.suggest.localityBonus": true,
+    "editor.suggestSelection": "recentlyUsedByPrefix"
+ 
+}
